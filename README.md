@@ -1,10 +1,32 @@
-📦 POS-Inventory
-Modern Inventory & POS Management System (Frontend + Backend in One Monorepo)
-<p align="center"> <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge" /> <img src="https://img.shields.io/badge/Backend-Java%20Spring%20Boot-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database-MySQL-green?style=for-the-badge" /> <img src="https://img.shields.io/badge/Responsive-YES-brightgreen?style=for-the-badge" /> <img src="https://img.shields.io/badge/Architecture-Monorepo-yellow?style=for-the-badge" /> </p>
-📌 Overview
+# 📦 POS-Inventory
+### Modern Inventory & POS Management System (Frontend + Backend in One Monorepo)
 
-POS-Inventory is a full-stack inventory and point-of-sale system built with a standalone Angular frontend and a Java Spring Boot backend, both organized inside a single monorepo.
-The system manages products, stock, categories, purchase/sale records, and provides an admin dashboard for business operations.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsive-YES-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Architecture-Monorepo-yellow?style=for-the-badge" />
+</p>
+
+---
+
+## 📌 Overview
+
+**POS-Inventory** is a full-stack inventory and point-of-sale system built with a **dedicated Angular frontend** and a **Node.js (Express) backend**, organized together inside a single monorepo.
+
+The system allows businesses to efficiently manage:
+
+- Products  
+- Stock Levels  
+- Categories  
+- Sales / POS Billing  
+- Purchase Records  
+- Admin Dashboard Analytics  
+
+The frontend and backend communicate through REST APIs and share a clean, professional folder structure.
+
+---
 
 This repository contains:
 
