@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-Angular-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Node.js%20%2F%20Express-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Responsive-YES-brightgreen?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Monorepo-yellow?style=for-the-badge" />
 </p>
